@@ -1,0 +1,2 @@
+# belajatGitHub
+Belajar algorithmics
