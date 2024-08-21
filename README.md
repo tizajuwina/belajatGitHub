@@ -1,2 +1,2 @@
-# belajatGitHub
+# belajarGitHub
 Belajar algorithmics
